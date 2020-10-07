@@ -1,7 +1,6 @@
 ### 🔭 I’m currently working on ...
 - Data Scientist & Developer
-- Data platform service 
-
+ 
 ### 🌱 I’m currently interested in ...
 - AutoML/AutoDL
 - Model Serving (Model Ops)
