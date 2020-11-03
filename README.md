@@ -2,7 +2,6 @@
 - Data Scientist & Developer
  
 ### 🌱 I’m currently interested in ...
-- AutoML/AutoDL
 - Model Serving (Model Ops)
 - Data Pipeline, Data Enginering
 
