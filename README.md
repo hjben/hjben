@@ -3,7 +3,7 @@
  
 ### 🌱 I’m currently interested in ...
 - Model Serving (Model Ops)
-- Data Pipeline, Data Enginering
+- Data Pipeline, Data Engineering
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=https://hjben.github.io/)](https://hjben.github.io/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyunjoong-kim-72b523143/)](https://www.linkedin.com/in/hyunjoong-kim-72b523143/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hj.ben.kim@gmail.com)](mailto:hj.ben.kim@gmail.com) [![Docker Hub Badge](https://img.shields.io/badge/DockerHub-2496ed?style=flat-square&logo=Docker&logoColor=white&link=https://hub.docker.com/u/hjben)](https://hub.docker.com/u/hjben) [![Pypi Badge](https://img.shields.io/badge/PyPI-3775a9?style=flat-square&logo=PyPI&logoColor=white&link=https://www.pypi.org/user/hjben)](https://www.pypi.org/user/hjben)
 
