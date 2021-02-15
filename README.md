@@ -2,7 +2,7 @@
 - Data Scientist & Developer
  
 ### 🌱 I’m currently interested in ...
-- Model Serving (Model Ops)
+- Model Serving (MLOps)
 - Data Pipeline, Data Engineering
 
 <!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=https://hjben.github.io/)](https://hjben.github.io/)-->
