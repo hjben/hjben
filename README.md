@@ -1,5 +1,5 @@
 ### 🔭 I’m currently working on ...
-- Data Scientist
+- Data Scientist & ML Engineer
  
 ### 🌱 I’m currently interested in ...
 - Model Serving (MLOps)
