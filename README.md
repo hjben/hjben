@@ -1,7 +1,8 @@
 ### 🔭 I’m currently working on ...
-- Data Scientist & Engineer
+- Data Scientist, AI/ML Engineer
  
 ### 🌱 I’m currently interested in ...
+- Applied AI/ML Service
 - Model Serving (MLOps)
 - Data Pipeline, Data Engineering
 
